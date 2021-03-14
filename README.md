@@ -1,7 +1,11 @@
 # Design Pattern for TypeScript
 
-# dist
-
+# build
 ```
-npu run build adapter.ts
+npm run build path/to/file.ts
+```
+
+# run
+```
+node dist/file.js
 ```
